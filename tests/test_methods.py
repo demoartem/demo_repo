@@ -17,3 +17,12 @@ class TestMethods:
         with allure.step('Проверка ответа'):
             assert response.ok, 'response not OK'
             assert response.json()['json'] == json_data
+    
+    @allure.title('Проверка запроса /post с данными')
+    def test_delete_with_json(self):
+        with allure.step('Подготовка данных для запроса /post'):
+            pass
+        with allure.step('Отправка запроса /post'):
+            pass
+        with allure.step('Проверка ответа'):
+            pass
