@@ -10,4 +10,4 @@ demo repository with api tests for https://httpbin.org/
 ├── tests                   # directory for tests
 
 ## Allure example
-![allure](https://github.com/demoartem/demorepo/blob/main/allure.png?raw=true)
+![Alt text](/allure.png?raw=true "Allure")
