@@ -1,7 +1,7 @@
 # demo_repo
 demo repository with api tests for https://httpbin.org/
 
-## project structure
+## Project structure
     .
     ├── framework
     │   ├── checkers            # checker functions for tests
